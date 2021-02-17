@@ -2,8 +2,6 @@
 /shelf/
 /workspace.xml
 /vcs.xml
-# Datasource local storage ignored files
-/../../../../../../:\Users\Bart v. Eijkelenburg\IdeaProjects\TwitterApp\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
