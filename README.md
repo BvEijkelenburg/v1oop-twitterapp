@@ -7,4 +7,5 @@ Open het project met IntelliJ, en de applicatie kan gestart worden door klasse *
 
 Bekijk de video hoe je het project kunt clonen als apart project:
 
-[![clone TwitterApp](https://img.youtube.com/vi/Kv39R__c0ww/0.jpg)](https://www.youtube.com/embed/Kv39R__c0ww)
+[![clone TwitterApp](https://img.youtube.com/vi/Kv39R__c0ww/maxresdefault.jpg)](https://www.youtube.com/embed/Kv39R__c0ww)
+[<img src="https://img.youtube.com/vi/Kv39R__c0ww/maxresdefault.jpg" width="100" height="100">](https://www.youtube.com/embed/Kv39R__c0ww)
