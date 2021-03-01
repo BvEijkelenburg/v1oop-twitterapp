@@ -5,6 +5,7 @@ Clone dit project met de command-line of IntelliJ ([instructies](https://www.jet
 
 Open het project met IntelliJ, en de applicatie kan gestart worden door klasse **twitter.TwitterApp** uit te voeren.
 
-Bekijk de video hoe je het project kunt clonen als apart project:
+Bekijk in onderstaande video hoe je het project kunt clonen als apart project:
 
-[![clone TwitterApp](https://img.youtube.com/vi/Kv39R__c0ww/maxresdefault.jpg)](https://www.youtube.com/embed/Kv39R__c0ww)
+[<img src="https://img.youtube.com/vi/A7PkwzLbEO4/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=A7PkwzLbEO4)
+[<img src="https://img.youtube.com/vi/A7PkwzLbEO4/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=A7PkwzLbEO4)
