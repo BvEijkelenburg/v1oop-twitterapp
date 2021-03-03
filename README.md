@@ -9,4 +9,4 @@ Bekijk onderstaande video om te zien hoe je het project kunt clonen als apart pr
 [<img src="https://img.youtube.com/vi/A7PkwzLbEO4/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=A7PkwzLbEO4)
 
 Je kunt er ook voor kiezen de code op te nemen in je eigen project. Zie eventueel deze demo:
-[<img src="https://img.youtube.com/vi/nea7oudpdy0/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=nea7oudpdy0)
+[<img src="https://img.youtube.com/vi/Kh6je8bCdns/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=Kh6je8bCdns)
