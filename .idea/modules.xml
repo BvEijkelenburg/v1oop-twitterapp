@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TwitterApp.iml" filepath="$PROJECT_DIR$/TwitterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1oop-twitterapp.iml" filepath="$PROJECT_DIR$/v1oop-twitterapp.iml" />
     </modules>
   </component>
 </project>
